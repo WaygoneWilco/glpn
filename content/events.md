@@ -1,5 +1,5 @@
 +++
-title = "Organizations"
+title = "Events"
 description = "List of Permaculture Organizations"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
