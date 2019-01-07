@@ -7,6 +7,7 @@ keywords = ["events"]
 <th scope"row"><a href="http://www.SITE.com">EVENT NAME</a></th>
 <td>LOCATION</td>
 <td>MONTH DD-DD, YEAR</td></tr>
+-->
 
 <table class='table table-striped table-responsive'>
 <thead>
@@ -21,7 +22,8 @@ keywords = ["events"]
 
 </tbody>
 </table>
-<br>
+
+---
 
  > We will gladly host any permaculture, farming or other event here. Please <a href="/contact/">contact us </a>to get your event listed.
 

@@ -101,7 +101,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
+    email = "greatlakespn@gmail.com"
 
     about_us = "<p>The Great Lakes Permaculture Network connects permaculture practicioners and organizations residing in Illinois, Indiana, Michigan, Ohio and Wisconsin (the East North Central states of the United States).</p>"
     copyright = "Copyright (c) 2018 - 2019, Great Lakes Permaculture Network; all rights reserved."

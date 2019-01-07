@@ -30,6 +30,7 @@ keywords = ["organizations",]
 </tbody>
 </table>
 
+---
 
 ## North America
 <table class='table table-striped table-responsive'>
@@ -48,6 +49,7 @@ keywords = ["organizations",]
 </tbody>
 </table>
 
+---
 
 ## International
 
@@ -63,6 +65,7 @@ keywords = ["organizations",]
 <td>Australia</td><td>PDC (Australia), Permaculture Systems Courses</td><td>https://permaculturenews.org/</td></tr>
 </tbody>
 </table>
-<br>
+
+---
 
  > We are always looking for more Permaculture organizations to list here. If you have suggestions, please <a href="/contact"> contact us</a> to send them our way.
