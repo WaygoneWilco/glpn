@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Great Lakes Permaculture Network</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Great Lakes Permaculture Network</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introductory Post</title>
+      <link>https://example.org/blog/2019/01/07/introduction/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/blog/2019/01/07/introduction/</guid>
+      <description>Welcome to the Great Lakes Permaculture Network! My name is Aaron Martz. I now live outside of Clarkston, Michigan. I began my permaculture journey in 2014, and I have been lucky to be able to learn from various people in various parts of the world. It has been very hard to find these people though, and that is the inspiration for this site.
+This site is here to provide a regional repository of events, people, organizations and common resources for permaculture praticioners, farmers, natural builders, etc.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/contact/</guid>
+      <description>This is a volunteer site, so please be patient when expecting a return email or when requesting site updates, thanks!</description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>https://example.org/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/events/</guid>
+      <description>EVENT NAME LOCATION MONTH DD-DD, YEAR --   NameLocationDates     Northern Michigan Small Farm Conference Traverse City, MIJanuary 25-26, 2019    We will gladly host any permaculture, farming or other event here. Please contact us to get your event listed.
+ </description>
+    </item>
+    
+    <item>
+      <title>Organizations &#43; Practicioners</title>
+      <link>https://example.org/organizations&#43;practicioners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/organizations&#43;practicioners/</guid>
+      <description>ORG NAME NW Lower Peninsula, MI SERVICES OFFERED WEBSITE  -- Great Lakes Region   NameLocationServices OfferedWebsite     Midwest Permaculture Stelle, IlPDC, Teacher Trainings, Advanced Design Courses, morehttps://midwestpermaculture.com/  Northern Michigan Permaculture NW Lower Peninsula, MIPDChttps://www.nmipermaculture.org/   North America   NameLocationServices OfferedWebsite     The Permaculture Institute North AmericaInternational PDC, Permaculture Diplomahttps://permaculture.org/  Permaculture Institute of North America North AmericaPermaculture Diploma, Networkinghttps://pina.</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>https://example.org/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/resources/</guid>
+      <description>Permaculture Basics  Gaia&amp;rsquo;s Garden - Toby Hemenway - The number one recommended beginner&amp;rsquo;s permaculture guide, teaching the basics through home-scale gardening. Earth User&amp;rsquo;s Guide to Permaculture - Rosemary Marrow - Another great permaculture gardening introduction from a permaculture elder. Essence of Permaculture - David Holmgren - From the co-originator of permaculture, this booklet distills his principles of permaculture and is a great resource.  Permaculture Design  Permaculture Design: A Step by Step Guide - Aranya - An uncomplicated booklet that guides you through the design process.</description>
+    </item>
+    
+  </channel>
+</rss>
