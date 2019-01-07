@@ -1,4 +1,0 @@
-[submodule "public"]
-	path = public
-	url = Git@git.com:WaygoneWilco/waygonewilco.github.io
-	branch = master

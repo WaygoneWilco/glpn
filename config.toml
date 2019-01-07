@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://waygonewilco.github.io"
 title = "Great Lakes Permaculture Network"
 theme = "hugo-universal-theme"
 themesDir = "themes"
