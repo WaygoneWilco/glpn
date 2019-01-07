@@ -1,29 +1,29 @@
 +++
 title = "Events"
 description = "List of Permaculture Organizations"
-keywords = ["FAQ","How do I","questions","what if"]
+keywords = ["events"]
 +++
+<!-- ADDING NEW ROW
+<th scope"row"><a href="http://www.SITE.com">EVENT NAME</a></th>
+<td>LOCATION</td>
+<td>MONTH DD-DD, YEAR</td></tr>
 
-#### We are always looking for more Permaculture organizations to list here. If you have suggestions, please use the contact form to send them our way.
+<table class='table table-striped table-responsive'>
+<thead>
+<tr>
+<th scope="col">Name</th><th scope="col">Location</th><th scope="col">Dates</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope"row"><a href="http://www.smallfarmconference.com/">Northern Michigan Small Farm Conference</a></th>
+<td>Traverse City, MI</td><td>January 25-26, 2019</td></tr>
 
-## Great Lakes Region
+</tbody>
+</table>
+<br>
 
-| Name | Location | Services Offered | Website |
-|-----------|------|------|------|
-| Midwest Permaculture | [Stelle, IL](https://www.openstreetmap.org/search?query=stelle%2C%20illinois#map=14/40.9521/-88.1536) | PDC, Teacher Trainings, Advanced Design Courses, more  | https://midwestpermaculture.com/|
-| Northern Michigan Permaculture | NW Lower Michigan | PDC | https://www.nmipermaculture.org/ |
+ > We will gladly host any permaculture, farming or other event here. Please <a href="/contact/">contact us </a>to get your event listed.
 
-## North America
-
-| Name | Location | Services Offered | Website |
-|------|------|------|------|
-| Permaculture Institute | North America | International PDC, Permaculture Diploma| https://permaculture.org/|
-| Permaculture Institute of North America | North America | Permaculture Diploma, Networking | https://pina.in/ |
-
-## International
-
-| Name | Location | Services Offered | Website |
-|------|------|------|------|
-| Permaculture Research Institute | australia | PDC (Australia), Permaculture Systems Courses| https://permaculturenews.org/|
 
 
